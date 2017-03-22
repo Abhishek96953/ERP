@@ -39,7 +39,7 @@ while($row=mysqli_fetch_array($res))
 <body>
 <div id="second">
 welcome   <?php echo $name; ?>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="erp.php">logout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="index.php">logout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="change password.php?name=<?php echo $name; ?>">change password</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <div id="first">

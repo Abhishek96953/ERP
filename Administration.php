@@ -44,7 +44,7 @@ outline-color:#666666;
 WElCOME<?php  echo $name;?>&nbsp;&nbsp;&nbsp;
 <a href="welcome.php?name=<?php echo $name; ?>">HOME</a>&nbsp;&nbsp;&nbsp;
 <a href="change password.php?name=<?php echo $name; ?>">change password</a>&nbsp;&nbsp;&nbsp;
-<a href="erp.php">logout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="index.php">logout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <img src="logo.jpg">
 <h4 style="color:#FF0000">MY ACCOUNT</h4>

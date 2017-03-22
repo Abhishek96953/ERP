@@ -57,7 +57,7 @@ color:#000000;
 <div id="second">
 <?php  echo $name;?>&nbsp;&nbsp;&nbsp;
 <a href="change password.php?name=<?php echo $name; ?>">change password</a>&nbsp;&nbsp;&nbsp;
-<a href="erp.php">logout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="index.php">logout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div><br><br>
 <div id="first">
 <img src="logo.jpg">

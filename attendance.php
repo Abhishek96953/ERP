@@ -43,7 +43,7 @@ button{
 	?>
 	<?php  echo $name;?>&nbsp;&nbsp;&nbsp;
 	<a href="change password.php?name=<?php echo $name; ?>">change password</a>&nbsp;&nbsp;&nbsp;
-	<a href="erp.php">logout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="index.php">logout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</div>
 	<form method="post" action="attendance1.php?id=<?php echo $i;?>">
 	<table>
